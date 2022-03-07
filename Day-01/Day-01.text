@@ -1,0 +1,56 @@
+Day-01[07-03-2022]:
+===================
+	Good Morning to All...
+
+Python Introduction:
+====================
+	
+Python Software Downloads:
+===========================
+	- https://python.org
+	- Downloads
+	- Select Operating System and click on it
+	- It displays two columns
+		- stable release => software with no errors
+		- pre-release => software with errors to rectify for developments
+	- cntrl + f => and type python "xxxxx"
+	- Select Your system type either 32 bit or 64 bit
+	- Try to download the only executeble file as "Windows x86-64 executeable installer" for 64 bit os. "Windows x86 executeanle installer" for 32 bit os.
+	- Click on the file to download
+
+	Python Installation:
+	====================
+	- Click on the software to install it will displays a window with 2 options and 2 check boxes
+	- Two options
+		- install now => by default path location software will be installed 
+		- customize installation => user defined folder location
+	- Two options
+		- user permissions
+		- Add Python 3.x version to path
+	- Click on install now to proceed for installation
+	- After completion try to close the window
+
+Python version Check:
+=====================
+	- cmd
+	- python -V
+
+Different ways to execute python program:
+=========================================
+	- Basic Procedure
+	- Advanced Editors
+	- IDLE
+	- Jupyter notebook
+
+Basic Procedure:
+================
+	- Editor + Interpreter
+	- cmd
+	- filename.py
+			or
+	python filename.py
+
+Advanced Editor:
+================
+	- Geany,Notepad++,Sublime,Atom,Editplus
+	- shortcuts to execute a python program

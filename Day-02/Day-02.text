@@ -1,0 +1,31 @@
+Day-02[08-03-2022]:
+===================
+	Good Morning to All....
+
+	IDLE => Integrated Devlopment Learning Environment:
+	===================================================
+		- win => idle
+
+	Pip Version:
+	============
+		- cmd
+		- pip -V
+		- It is used to install third party packages [jupyter,pandas,matplotlib,seabon]
+		- pip install packagename
+
+	Pip Upgrade:
+	============
+		- cmd
+		- python -m pip install --upgrade pip
+
+	Jupyter notebook:
+	=================
+		- cmd
+		- pip install jupyter notebook
+
+	Jupyter notebook running:
+	=========================
+		- cmd
+		- jupyter notebook
+
+

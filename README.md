@@ -11,5 +11,5 @@
   - Typecasting with sample examples on each
 
 ## Day-03(09-03-2022):
-  - Operators explanation
-  - Conditional statemnets with sample examples on each
+  - Brief explanation of Operators Concept
+  - Conditional statements with sample examples on each

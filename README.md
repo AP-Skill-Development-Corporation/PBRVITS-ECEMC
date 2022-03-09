@@ -9,3 +9,7 @@
   - Downloading and installation of Jupyter notebook
   - Variables,Data Types,input and output Formatting
   - Typecasting with sample examples on each
+
+## Day-03(09-03-2022):
+  - Operators explanation
+  - Conditional statemnets with sample examples on each

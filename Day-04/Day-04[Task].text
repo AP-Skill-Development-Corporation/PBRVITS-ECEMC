@@ -1,0 +1,24 @@
+Task:
+=====
+	Concepts:
+	=========
+		- Nested Loops
+		- Functions and its types
+		- Functions and argument types
+		- Data Structures [List,Tuple,Set,String and Dictionary]
+
+Task-1
+=======
+Input-1:
+	874859
+Output-2:
+	Given number is: 874859
+	Left Half reverse is: 478859
+	Right Half reverse is: 874958
+
+Input-2:
+	58236
+Output:
+	Given number is: 58236
+	Left Half reverse is: 85236
+	Right Half reverse is: 58263

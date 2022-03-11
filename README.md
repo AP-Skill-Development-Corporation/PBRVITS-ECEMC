@@ -16,3 +16,8 @@
 
 ## Day-04(10-03-2022):
   - Loops and Jumping Statements with sample examples on each
+
+## Day-05(11-03-2022):
+  - Nested Loops with sample examples on each
+  - Functions and its types with sample examples on each
+  - Function argument and its types with sample examples on each

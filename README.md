@@ -21,3 +21,7 @@
   - Nested Loops with sample examples on each
   - Functions and its types with sample examples on each
   - Function argument and its types with sample examples on each
+
+## Day-06(12-03-2022):
+  - Data Structures explanation
+  - List,tuple,Dictionary and its methods with sample examples on each
